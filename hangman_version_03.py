@@ -1,4 +1,4 @@
-import pygame #GUI using pygame 
+import pygame 
 import math 
 import random 
 
